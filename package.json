@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "inquirer": "^1.2.3",
-    "shelljs": "^0.7.5"
+    "shelljs": "^0.7.5",
+    "turbo-git-config": "^0.2.0"
   },
   "devDependencies": {
     "jasmine-node": "^1.14.5",
