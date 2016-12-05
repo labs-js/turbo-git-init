@@ -7,4 +7,4 @@
 
 # turbo-git-init
 
-Turbo git config initialization command
+Turbo git config initialization command. This command will create the `.turbogit` git file with the git commit convention that you choose.
