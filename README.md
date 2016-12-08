@@ -25,4 +25,9 @@ And then from the code when you need use it you just need to run:
 require('turbo-git-init')();
 ```
 
-This will prompt the command output. Have fun!
+This will print out the command output:
+
+<img alt="screenshot" src=''/>
+
+
+Have fun!
