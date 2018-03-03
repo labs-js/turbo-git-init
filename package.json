@@ -7,13 +7,13 @@
     "test": "nyc jasmine-node --verbose --captureExceptions test"
   },
   "dependencies": {
-    "inquirer": "^1.2.3",
-    "shelljs": "^0.7.5",
-    "turbo-git-config": "^0.4.2"
+    "inquirer": "^5.1.0",
+    "shelljs": "^0.8.1",
+    "turbo-git-config": "^0.5.0"
   },
   "devDependencies": {
     "jasmine-node": "^1.14.5",
-    "nyc": "^8.1.0"
+    "nyc": "^11.4.1"
   },
   "engines": {
     "node": "7"
