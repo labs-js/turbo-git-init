@@ -1,6 +1,6 @@
 {
   "name": "turbo-git-init",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Turbo git config initialization command",
   "main": "index.js",
   "scripts": {
