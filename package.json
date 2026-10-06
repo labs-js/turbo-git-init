@@ -4,7 +4,8 @@
   "description": "Turbo git config initialization command",
   "main": "index.js",
   "scripts": {
-    "test": "nyc jasmine-node --verbose --captureExceptions test"
+    "test": "nyc jasmine-node --verbose --captureExceptions test",
+    "prepublishOnly": "npm test"
   },
   "dependencies": {
     "inquirer": "^5.1.0",
