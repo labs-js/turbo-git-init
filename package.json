@@ -10,7 +10,7 @@
   "dependencies": {
     "inquirer": "^5.1.0",
     "shelljs": "^0.8.1",
-    "turbo-git-config": "file:../turbo-git-config"
+    "turbo-git-config": "^0.5.2"
   },
   "devDependencies": {
     "jasmine-node": "^1.14.5",
